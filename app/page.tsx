@@ -25,7 +25,6 @@ export default function Home() {
                 sizes="30vw"
                 alt={"img" + i}
               />
-              ;
             </Link>
           );
         })}
@@ -52,7 +51,6 @@ export default function Home() {
                 sizes="30vw"
                 alt={"img" + i}
               />
-              ;
             </Link>
           );
         })}
